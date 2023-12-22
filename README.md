@@ -1,8 +1,8 @@
-### Wow, hello!
+## Wow, hello!
 
-# For the time being, all my repositories are private !
-# Under construction..
-# Email: josephtandyo@gmail.com
+### For the time being, all my repositories are private !
+### Under construction..
+### Email: josephtandyo@gmail.com
 
 <!--
 **josephtandyo/josephtandyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
