@@ -15,7 +15,7 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 
 ## 🔧 Currently Working On
 
-- **[GEARS Research Project](https://sites.google.com/view/gears-game/)**  
+- **<a href="https://sites.google.com/view/gears-game/" target="_blank">GEARS Research Project</a>**  
   A collaborative research project between the University of Calgary and the University of Manitoba, developing an educational game aimed at supporting neurodivergent students in their transition to post-secondary education.
 
 - **Data Science and Machine Learning Club Website**  
@@ -25,13 +25,12 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 
 Here are a few of the public ones:
 
-- **[University Orientation Guide Web Application (CalgaryFirstYear)](https://www.calgaryfirstyear.com/)**  
-  A full-stack web app developed for first-year UCalgary students, providing guides and a course review system. Built with **Next.js**, **MongoDB**, and **Tailwind CSS**, this app increased user engagement by 200%, attracting over 1,100 active users during orientation week.
+- **<a href="https://www.calgaryfirstyear.com/" target="_blank">University Orientation Guide Web Application (CalgaryFirstYear)</a>**
 
-- **[University Extracurriculars Web Application (DinoDB)](#)**  
+- **[University Extracurriculars Web Application (DinoDB))**  
   Streamlined management of clubs and events at UCalgary with a full-stack solution. Utilized **React.js**, **Node.js**, and **MySQL** to handle complex relationships between users, activities, and events, including secure CRUD operations with role-based access control.
 
-- **[Categories Web Application](#)**  
+- **[Categories Web Application]**  
   A game inspired by NYT Games, developed using **Typescript**, **JavaScript**, **Express.js**, and **MySQL**. This project emphasizes interactive front-end development with efficient back-end data handling.
 
 ## 📫 How to Reach Me
