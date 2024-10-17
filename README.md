@@ -15,22 +15,21 @@ _Most of my interesting projects are private, but I'd love to chat with you abou
 
 ## 🔧 Currently Working On
 
-- **<a href="https://sites.google.com/view/gears-game/" target="_blank">GEARS Research Project</a>**  
+- **[GEARS Research Project](https://sites.google.com/view/gears-game/)**  
   A collaborative research project between the University of Calgary and the University of Manitoba, developing an educational game aimed at supporting neurodivergent students in their transition to post-secondary education.
-
+  
 - **Data Science and Machine Learning Club Website**  
   Leading the creation of the official website for the Data Science and Machine Learning Club at the University of Calgary.
-
+  
 ## 🚀 My Projects
-
 Here are a few of the public ones:
-
-- **<a href="https://www.calgaryfirstyear.com/" target="_blank">University Orientation Guide Web Application (CalgaryFirstYear)</a>**
-
-- **[University Extracurriculars Web Application (DinoDB))**  
+- **[University Orientation Guide Web Application (CalgaryFirstYear)](https://www.calgaryfirstyear.com/)**  
+  A full-stack web app developed for first-year UCalgary students, providing guides and a course review system. Built with **Next.js**, **MongoDB**, and **Tailwind CSS**, this app increased user engagement by 200%, attracting over 1,100 active users during orientation week.
+  
+- **[University Extracurriculars Web Application (DinoDB)](#)**  
   Streamlined management of clubs and events at UCalgary with a full-stack solution. Utilized **React.js**, **Node.js**, and **MySQL** to handle complex relationships between users, activities, and events, including secure CRUD operations with role-based access control.
-
-- **[Categories Web Application]**  
+  
+- **[Categories Web Application](#)**  
   A game inspired by NYT Games, developed using **Typescript**, **JavaScript**, **Express.js**, and **MySQL**. This project emphasizes interactive front-end development with efficient back-end data handling.
 
 ## 📫 How to Reach Me
@@ -38,7 +37,7 @@ Here are a few of the public ones:
 Feel free to connect with me on [GitHub](https://github.com/your-github-username), [LinkedIn](https://linkedin.com/in/your-profile), or send me an email at [josephtandyo@gmail.com](mailto:josephtandyo@gmail.com) to chat about my projects!
 
 ### 👀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=josephtandyo&style=flat-square)
 
 <!--
 **josephtandyo/josephtandyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
