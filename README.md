@@ -29,7 +29,7 @@ Here are a few of the public ones:
 - **[University Extracurriculars Web Application (DinoDB)](#)**  
   Streamlined management of clubs and events at UCalgary with a full-stack solution. Utilized **React.js**, **Node.js**, and **MySQL** to handle complex relationships between users, activities, and events, including secure CRUD operations with role-based access control.
   
-- **[Categories Web Application](#)**  
+- **[Categories Web Application](https://www.categoriesdaily.com/)**  
   A game inspired by NYT Games, developed using **Typescript**, **JavaScript**, **Express.js**, and **MySQL**. This project emphasizes interactive front-end development with efficient back-end data handling.
 
 ## 📫 How to Reach Me
